@@ -1,0 +1,31 @@
+{
+  "name"          : "objectkeys",
+  "version"       : "1.0.1",
+  "description"   : "Returns all the keys(including nested) of an object",
+  "license"       : "MIT",
+  "repository"    : "https://github.com/luthraG/objectkeys.git",
+  "author"        : {
+    "name"        : "Gaurav Luthra",
+    "email"       : "luthra.zenith@gmail.com"
+  },
+  "dependencies"  : {
+    "node-ratify" : ""
+  },
+  "engines"       : {
+    "node"        : ">=0.10.0"
+  },
+  "files"         : [
+    "index.js"
+  ],
+  "keywords"      : [
+    "object",
+    "keys",
+    "properties",
+    "values",
+    "extend",
+    "assign",
+    "key",
+    "getKeys",
+    "get-keys"
+  ]
+}
