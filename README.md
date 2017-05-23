@@ -37,7 +37,9 @@ OBJECT_KEYS.keys(days);
 
 ### Clone the repo
 
-git clone https://github.com/luthraG/objectkeys.git
+```bash
+$ git clone https://github.com/luthraG/objectkeys.git
+```
 
 ### API
 
