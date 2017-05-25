@@ -1,6 +1,6 @@
 {
   "name"          : "objectkeys",
-  "version"       : "1.0.2",
+  "version"       : "1.0.3",
   "description"   : "Returns all the keys(including nested) of an object",
   "license"       : "MIT",
   "repository"    : "https://github.com/luthraG/objectkeys.git",
@@ -9,7 +9,7 @@
     "email"       : "luthra.zenith@gmail.com"
   },
   "dependencies"  : {
-    "node-ratify" : "1.1.2"
+    "node-ratify" : "~1.1.0"
   },
   "engines"       : {
     "node"        : ">=0.10.0"
